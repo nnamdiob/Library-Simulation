@@ -1,5 +1,5 @@
 
-# Library Book Rental System - Simulation Project
+# Multi-Threaded Patron Rental Simulator 
 
 ## Project Description
 This project simulates a library book rental system with a graphical interface, allowing patrons to rent books from the library and visualize the rental queue. The system is implemented in C, and it features several key components that work together to create a realistic simulation of the rental process.
